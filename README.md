@@ -1,5 +1,4 @@
 #  About Me:
-             I'm Filza Safdar
 Cybersecurity-based projects as part of my online internships, focusing on secure systems and practical problem-solving.<br>Beginner-friendly cybersecurity awareness tools, and learning-focused tech projects.<br>Students and beginners by sharing concepts related to programming, cybersecurity basics, and project development.<br>cybersecurity concepts, and student tech projects.<br>I enjoy turning complex technical concepts into simple, easy-to-understand ideas. 
 
 
